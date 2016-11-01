@@ -1,0 +1,4 @@
+for test, do the following:
+1. mvn clean && mvn package
+2. copy war to tomchat/webapps
+3. In your browser, enter: http://localhost:8080/TomcatExample-app/hello?name=Anna
